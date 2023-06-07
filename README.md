@@ -1,2 +1,4 @@
 # Reverse-Shell
-Uses piping servers to get a reverse shell on a target computer -> REQUIRES NO PORT FORWARDING AND USES PPNG.IO TO SEND AND RECEIVE DATA
+Uses piping servers to get a reverse shell on a target computer 
+- (requires no external server or port forwarding and uses ppng.io to send and receive data)
+![image](https://github.com/4lpine/Reverse-Shell/assets/112321074/e5878464-9fe0-4649-927e-0b91943cd362)
